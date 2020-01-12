@@ -4,7 +4,7 @@
 * Code optimization
 
 ![AI](gui0016.png)
-
+* Download Link https://github.com/tieandsuit/gxi-GUI-miner/releases
 ## GXI-GUI-MINER 0.0.1.4 for Windows
 
 ### Donations are welcome :) 
