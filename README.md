@@ -1,3 +1,3 @@
-## GXI-GUI-MINER 0.0.1.5 for Windows
+## GXI-GUI-MINER 0.0.1.4 for Windows
 
 ![AI](Untitled.png)
