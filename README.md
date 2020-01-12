@@ -3,7 +3,7 @@
 * Rearranged GUI
 * Code optimization
 
-![AI](Untitled.png)
+![AI](gui0016.png)
 
 ## GXI-GUI-MINER 0.0.1.4 for Windows
 
