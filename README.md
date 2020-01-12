@@ -1,3 +1,11 @@
+## GXI-GUI-MINER 0.0.1.6 for Windows
+* Added some links of interest 
+* Rearranged GUI
+* Code optimization
+
+![AI](Screenshot_17.png)
+
 ## GXI-GUI-MINER 0.0.1.4 for Windows
 
-![AI](Untitled.png)
+### Donations are welcome :) 
+gxi1VfPn6YP3m8NXZDJ4JC2zMQ247wwqXf8T9EL6fRmCdkMCHF8VgoWK8E69zfor2ND58obQMUNhoSRU71VKMeZ62Q1F8qHgSP
