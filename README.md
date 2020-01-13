@@ -1,6 +1,6 @@
-## GLX-GUI-MINER 0.0.1.7 for Windows
+## GLX-GUI-MINER 0.0.1.8 for Windows
 * fixed error in naming coin ;)
-
+* small bug fix
 * Download Link https://github.com/tieandsuit/gxi-GUI-miner/releases
 
 ## GXI-GUI-MINER 0.0.1.6 for Windows
