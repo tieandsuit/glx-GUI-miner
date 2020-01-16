@@ -1,6 +1,7 @@
 ## GLX-GUI-MINER 0.0.2.0 for Windows
 * Progress bar for CPU usige 
 * Rearange GUI
+
 ![AI](gui0020.png)
 * Download Link https://github.com/tieandsuit/gxi-GUI-miner/releases
 
