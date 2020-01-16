@@ -1,11 +1,14 @@
-
+## GLX-GUI-MINER 0.0.2.1 for Windows
+### Bear in mind this is Pre-release
+* .NET Framework updated to 3.5 
+![AI](Untitled.png)
+* Download Link https://github.com/tieandsuit/gxi-GUI-miner/releases/tag/0.0.2.1
 ## GLX-GUI-MINER 0.0.2.0 for Windows
 ### Bear in mind this is Pre-release
 * Progress bar for CPU usage
 * Rearrange GUI
 * Source Code for 0.0.2.0 released
 
-![AI](Untitled.png)
 * Download Link https://github.com/tieandsuit/gxi-GUI-miner/releases/tag/0.0.2.0
 ## GLX-GUI-MINER 0.0.1.8 for Windows
 * fixed error in naming coin ;)
