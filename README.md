@@ -3,7 +3,7 @@
 * Rearrange GUI
 * Source Code for 0.0.2.0 released
 
-![AI](gui0020.png)
+![AI](Untitled.png)
 * Download Link https://github.com/tieandsuit/gxi-GUI-miner/releases/tag/0.0.2.0
 ## GLX-GUI-MINER 0.0.1.8 for Windows
 * fixed error in naming coin ;)
