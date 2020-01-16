@@ -1,7 +1,6 @@
 
 ## GLX-GUI-MINER 0.0.2.0 for Windows
-* Bear in mind this is Pre-release
-
+### Bear in mind this is Pre-release
 * Progress bar for CPU usage
 * Rearrange GUI
 * Source Code for 0.0.2.0 released
