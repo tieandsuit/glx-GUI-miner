@@ -1,0 +1,16 @@
+C:\Users\47924\Documents\GitHub\gxi-GUI-miner\bin\Debug\launcher.exe.manifest
+C:\Users\47924\Documents\GitHub\gxi-GUI-miner\bin\Debug\launcher.application
+C:\Users\47924\Documents\GitHub\gxi-GUI-miner\bin\Debug\launcher.exe
+C:\Users\47924\Documents\GitHub\gxi-GUI-miner\bin\Debug\launcher.pdb
+C:\Users\47924\Documents\GitHub\gxi-GUI-miner\bin\Debug\Newtonsoft.Json.dll
+C:\Users\47924\Documents\GitHub\gxi-GUI-miner\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\47924\Documents\GitHub\gxi-GUI-miner\bin\Debug\Newtonsoft.Json.xml
+C:\Users\47924\Documents\GitHub\gxi-GUI-miner\obj\Debug\launcher.csprojAssemblyReference.cache
+C:\Users\47924\Documents\GitHub\gxi-GUI-miner\obj\Debug\launcher.Form1.resources
+C:\Users\47924\Documents\GitHub\gxi-GUI-miner\obj\Debug\launcher.Properties.Resources.resources
+C:\Users\47924\Documents\GitHub\gxi-GUI-miner\obj\Debug\launcher.csproj.GenerateResource.cache
+C:\Users\47924\Documents\GitHub\gxi-GUI-miner\obj\Debug\launcher.exe.manifest
+C:\Users\47924\Documents\GitHub\gxi-GUI-miner\obj\Debug\launcher.application
+C:\Users\47924\Documents\GitHub\gxi-GUI-miner\obj\Debug\launcher.csproj.CopyComplete
+C:\Users\47924\Documents\GitHub\gxi-GUI-miner\obj\Debug\launcher.exe
+C:\Users\47924\Documents\GitHub\gxi-GUI-miner\obj\Debug\launcher.pdb
